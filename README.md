@@ -6,7 +6,7 @@
 * 🌍 **Location:** Türkiye
 * 🎯 **Focus:** Graphic designing and development
 * 🌱 **Currently Working On:** SPT mods
-* 📫 **Contact:** [Discord](https://discord.com/1128698523018338379) • [SPT Forge](https://sp-mod.com/user/129906/thoughred)
+* 📫 **Contact:** [Discord](https://discord.com/users/1128698523018338379) • [SPT Forge](https://sp-mod.com/user/129906/thoughred)
 
 ---
 
