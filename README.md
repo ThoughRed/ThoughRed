@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there👋
 
-<!--
-**ThoughRed/ThoughRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👤 About Me
+* 🌍 **Location:** Türkiye
+* 🎯 **Focus:** Graphic designing and development
+* 🌱 **Currently Working On:** SPT mods
+* 📫 **Contact:** [Discord](https://discord.com/1128698523018338379) • [SPT Forge](https://sp-mod.com/user/129906/thoughred)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Languages & Tech
+* **Languages:** C#, Python
+* **Tools:** Visual Studio, VS Code, Git, Unity, ILSpy, Aseprite, GIMP, Photoshop, Godot
+
+---
+
+### 🖥️ Setup & Hardware
+* **OS:** Windows 11
+* **PC:** Lenovo LOQ 15IRX10
